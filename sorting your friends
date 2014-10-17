@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>My Social Network</title>
+	</head>
+	<body>
+		<!--Add your HTML below!-->
+		<div id="best_friend" class="friend">Queer Friends</div>
+		<div class="family">family</div>
+		<div class="friend">Fellow Volunteers</div>
+		<div id="archnemesis" class="enemy">Republicans</div>
+		
+	</body>
+</html>
