@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Joy's Resume</title>
+	</head>
+	<body>
+	<div id="header"></div>
+	<div class="left"></div>
+	<div class="right"></div>
+	<div id="footer"></div>
+			<h1>Joy M. Whitt</h1>
+	<p>I was born and raised in west Michigan, did a couple stints in Iowa and have settled into DC for the past 3 years. I love brunches, concerts, outdoor events, and otherwise enjoying everything that DC has to offer— especially if it brings people together! I love dance parties and I’m almost always looking for something fun to get into with my friends.</p>
+	<p>I’m really passionate about civil service and you can usually find me volunteering at least once a week, or mentoring some truly awesome young kiddos.</p>
+	<ul>The six things I could never do without</ul>
+	    <li>Friends</li>
+	    <li>My Mom</li>
+	    <li>Music</li>
+	    <li>Pictures</li>
+	    <li>Chocolate</li>
+	    <li>Having something to look forward to</li>
+	</ul>
+
+	</body>
+</html>
+
+#How do you get the color clocks BEHIND the text?!
