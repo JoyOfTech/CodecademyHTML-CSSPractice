@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Joy Whitt</title>
+	</head> #wondering how I can make my profile picture smaller
+	<body><img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10421147_10101891876516315_6397241164058343433_n.jpg"></body>
+	    <p>I am a 28 year old female. I am from Battle Creek, MI.</p>
+	        <ul>
+	            <li style="font-family:Arial; color:orange; font-size:20px">Jobs</li>
+	                <ol>
+	                    <li>Barista</li>
+	                    <li>Security guard</li>
+	                    <li>Resident Assistant</li>
+	                    <li><strong>Accountant</strong></li>
+	               </ol>
+	                    
+	            <li style="font-family:Arial; color:blue; font-size:20px">Places I've Traveled</li>
+	                <ol>
+	                    <li>Vinton, IA</li>
+	                    <li><strong>France</strong></li>>
+	                        <ul>
+	                            <li>Paris</li>
+	                            <li>Nice</li>
+	                        </ul>
+	                        
+	                    <li>New Orleans, LA</li>
+	               </ol>
+	   
+	            <li style="font-family:Arial; color:violet; font-size:20px">Favorite Music</li>
+	                <ol>
+	                    <li>Hip Hop</li>
+	                    <li>French</li>
+	               </ol>
+	            <li style="font-family:Arial; color:green; font-size:20px">Favorite Books</li>
+	                <ol>
+	                    <li><em>Middlesex</em></li>
+	                    <li><em>Poisonwood Bible</em></li>
+	                    <li><em>Hunger Games</em></li>
+	               </ol>
+	       </ul>
+</html>
